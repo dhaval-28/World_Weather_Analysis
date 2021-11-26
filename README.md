@@ -8,9 +8,9 @@
 ## Deliverable 1 : The Weather_Database folder with the following:
 
 ### 1.1 - The Weather_Database.ipynb file
-![Click here for Weather_Database.ipynb](https://github.com/dhaval-28/PyBer_Analysis/blob/main/Images/PyBer_DataFrame-Deliverable1.png)
+![Click here for Weather_Database.ipynb](https://github.com/dhaval-28/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy2.ipynb)
 ### 1.2 - The WeatherPy_Database.csv file
-![Click here for WeatherPy_Database.csv](https://github.com/dhaval-28/PyBer_Analysis/blob/main/Images/PyBer_DataFrame-Deliverable1.png)
+![Click here for WeatherPy_Database.csv](https://github.com/dhaval-28/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
 
 ## Deliverable 2 :The Vacation_Search folder with the following:
